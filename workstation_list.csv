@@ -1,0 +1,2 @@
+WorkstationName,SourcePath,DestinationPath
+TEST,.\Test.txt,C$\Program Files\Test.txt
